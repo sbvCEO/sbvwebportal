@@ -7,7 +7,7 @@ export default function PrivacyPolicyPage() {
             <section className="mb-10">
                 <h2 className="text-2xl font-bold mb-4">1. Introduction</h2>
                 <p className="mb-4">
-                    SmartBusinessValue ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and AI-native business tools.
+                    SmartBusinessValue (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and AI-native business tools.
                 </p>
                 <p>
                     By accessing or using our services, you agree to the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not access the services.
@@ -16,7 +16,7 @@ export default function PrivacyPolicyPage() {
 
             <section className="mb-10">
                 <h2 className="text-2xl font-bold mb-4">2. Information We Collect</h2>
-                <p className="mb-4 text-slate-700 font-semibold italic">We collect information that you provide directly to us, as well as information collected automatically when you use our services.</p>
+                <p className="mb-4 text-[#c7d7ef] font-semibold italic">We collect information that you provide directly to us, as well as information collected automatically when you use our services.</p>
                 <ul className="list-disc pl-6 space-y-2 mb-4">
                     <li><strong>Personal Data:</strong> Name, email address, billing address, and payment information.</li>
                     <li><strong>Business Data:</strong> Information you input into our tools, such as CRM data, financial records, and operational details.</li>
@@ -81,7 +81,7 @@ export default function PrivacyPolicyPage() {
             <section className="mb-10">
                 <h2 className="text-2xl font-bold mb-4">8. Changes to This Policy</h2>
                 <p>
-                    We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new policy on this page and updating the "Last Updated" date.
+                    We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new policy on this page and updating the &quot;Last Updated&quot; date.
                 </p>
             </section>
 
@@ -89,7 +89,7 @@ export default function PrivacyPolicyPage() {
                 <h2 className="text-2xl font-bold mb-4">9. Contact Us</h2>
                 <p>
                     If you have any questions about this Privacy Policy, please contact us at: <br />
-                    <span className="font-bold text-primary">legal@smartbusinessvalue.com</span>
+                    <span className="font-bold text-accent">legal@smartbusinessvalue.com</span>
                 </p>
             </section>
         </LegalLayout>

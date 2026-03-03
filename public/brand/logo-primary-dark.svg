@@ -1,0 +1,41 @@
+<svg width="980" height="188" viewBox="0 0 980 188" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Business Valee logo dark blend</title>
+  <desc id="desc">Dark background logo version with icon tile and luxury wordmark</desc>
+
+  <defs>
+    <linearGradient id="gold" x1="24" y1="18" x2="208" y2="186" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8D5A7"/>
+      <stop offset="0.46" stop-color="#C8A968"/>
+      <stop offset="1" stop-color="#9B783F"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="28" y1="22" x2="196" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A3240"/>
+      <stop offset="1" stop-color="#171F2C"/>
+    </linearGradient>
+    <linearGradient id="ivory" x1="242" y1="48" x2="630" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2EEE5"/>
+      <stop offset="1" stop-color="#CEC7BA"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="28" y="22" width="168" height="164" rx="34" fill="url(#tile)"/>
+  <rect x="28" y="22" width="168" height="164" rx="34" stroke="url(#gold)" stroke-width="3"/>
+
+  <path d="M77 60.6C77 52.59 83.49 46.1 91.5 46.1C94.88 46.1 98 47.24 100.5 49.17C103.31 46.54 107.05 44.9 111.2 44.9C119.98 44.9 127.1 52.02 127.1 60.8C127.1 61.37 127.07 61.93 127 62.49C131.74 64.46 135.1 69.13 135.1 74.58C135.1 81.83 129.22 87.7 121.98 87.7H93.6C84.98 87.7 78 80.72 78 72.1V60.6H77Z" stroke="url(#gold)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M93.5 53.8V63.2M100.6 53.1V64M107.7 53.8V63.2M114.8 53.1V64" stroke="url(#gold)" stroke-width="2.1" stroke-linecap="round"/>
+
+  <path d="M106.5 91V103" stroke="url(#gold)" stroke-width="2.7" stroke-linecap="round"/>
+  <path d="M102.5 98L106.5 103L110.5 98" stroke="url(#gold)" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="86" y="105" width="41" height="28" rx="6" stroke="url(#gold)" stroke-width="3"/>
+  <path d="M98.5 105V101.2C98.5 99.84 99.64 98.7 101 98.7H112C113.36 98.7 114.5 99.84 114.5 101.2V105" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+
+  <path d="M106.5 134V144" stroke="url(#gold)" stroke-width="2.7" stroke-linecap="round"/>
+  <path d="M102.5 139L106.5 144L110.5 139" stroke="url(#gold)" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="106.5" cy="157" r="12.2" stroke="url(#gold)" stroke-width="2.8"/>
+  <path d="M106.5 149V165M111 152.3C111 151.08 110.02 150.1 108.8 150.1H105.2C103.98 150.1 103 151.08 103 152.3C103 153.52 103.98 154.5 105.2 154.5H107.7C108.92 154.5 109.9 155.48 109.9 156.7C109.9 157.92 108.92 158.9 107.7 158.9H104.1C102.88 158.9 101.9 157.92 101.9 156.7" stroke="url(#gold)" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="236" y="96" fill="url(#ivory)" font-size="64" font-weight="500" letter-spacing="0.7" font-family="'Cormorant Garamond','Times New Roman',serif">SMART BUSINESS</text>
+  <text x="575" y="152" fill="url(#gold)" font-size="68" font-weight="700" letter-spacing="0.9" font-family="'Cormorant Garamond','Times New Roman',serif">VALUE</text>
+</svg>

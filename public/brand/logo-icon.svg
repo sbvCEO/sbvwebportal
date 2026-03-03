@@ -1,0 +1,27 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Smart Business Valee icon</title>
+  <desc id="desc">Icon with brain to briefcase to dollar flow</desc>
+  <defs>
+    <linearGradient id="gold" x1="32" y1="22" x2="224" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7D2A1"/>
+      <stop offset="0.45" stop-color="#C9A968"/>
+      <stop offset="1" stop-color="#9F7A3D"/>
+    </linearGradient>
+    <linearGradient id="tile" x1="28" y1="22" x2="226" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A3341"/>
+      <stop offset="1" stop-color="#151D2A"/>
+    </linearGradient>
+  </defs>
+  <rect x="28" y="22" width="200" height="204" rx="40" fill="url(#tile)"/>
+  <rect x="28" y="22" width="200" height="204" rx="40" stroke="url(#gold)" stroke-width="4"/>
+  <path d="M86 76C86 66.61 93.61 59 103 59C107.03 59 110.74 60.41 113.62 62.77C117 59.57 121.56 57.6 126.6 57.6C136.98 57.6 145.4 66.02 145.4 76.4C145.4 77.11 145.36 77.82 145.28 78.52C150.87 80.87 154.8 86.41 154.8 92.88C154.8 101.5 147.8 108.5 139.18 108.5H104.6C94.88 108.5 87 100.62 87 90.9V76H86Z" stroke="url(#gold)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M105 67V78M113.5 66V79M122 67V78M130.5 66V79" stroke="url(#gold)" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M121 111V128" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M116.5 122L121 128L125.5 122" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="96" y="130" width="50" height="34" rx="7" stroke="url(#gold)" stroke-width="3.6"/>
+  <path d="M112 130V125.2C112 123.43 113.43 122 115.2 122H126.8C128.57 122 130 123.43 130 125.2V130" stroke="url(#gold)" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M121 165V180" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M116.5 174L121 180L125.5 174" stroke="url(#gold)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="121" cy="195" r="16" stroke="url(#gold)" stroke-width="3.2"/>
+  <path d="M121 184V206M127 188C127 186.34 125.66 185 124 185H119.5C117.84 185 116.5 186.34 116.5 188C116.5 189.66 117.84 191 119.5 191H122.5C124.16 191 125.5 192.34 125.5 194C125.5 195.66 124.16 197 122.5 197H118C116.34 197 115 195.66 115 194" stroke="url(#gold)" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

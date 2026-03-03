@@ -7,7 +7,7 @@ export default function TermsOfServicePage() {
             <section className="mb-10">
                 <h2 className="text-2xl font-bold mb-4">1. Agreement to Terms</h2>
                 <p>
-                    By accessing or using SmartBusinessValue (the "Service"), you agree to be bound by these Terms of Service. If you are using the Service on behalf of a company or organization, you represent that you have the authority to bind that entity to these terms.
+                    By accessing or using SmartBusinessValue (the &quot;Service&quot;), you agree to be bound by these Terms of Service. If you are using the Service on behalf of a company or organization, you represent that you have the authority to bind that entity to these terms.
                 </p>
             </section>
 
@@ -16,7 +16,7 @@ export default function TermsOfServicePage() {
                 <p className="mb-4">
                     Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, and revocable license to access and use the Service for your internal business purposes.
                 </p>
-                <p className="bg-slate-50 border-l-4 border-accent p-4 italic text-slate-700">
+                <p className="bg-white/5 border-l-4 border-accent p-4 italic text-[#c7d7ef]">
                     <strong>Restriction:</strong> You may not reverse engineer, decompile, or attempt to extract the source code or underlying AI models of the Service.
                 </p>
             </section>
@@ -24,11 +24,11 @@ export default function TermsOfServicePage() {
             <section className="mb-10">
                 <h2 className="text-2xl font-bold mb-4">3. AI-Native Services and Content</h2>
                 <p className="mb-4">
-                    The Service utilizes artificial intelligence to generate insights, proposals, and other content ("Output").
+                    The Service utilizes artificial intelligence to generate insights, proposals, and other content (&quot;Output&quot;).
                 </p>
                 <ul className="list-disc pl-6 space-y-2 mb-4">
                     <li><strong>Ownership of Output:</strong> As between you and SmartBusinessValue, you own the Output generated through your use of the Service, provided you have paid all applicable fees.</li>
-                    <li><strong>Accuracy Policy:</strong> AI models can produce inaccurate or biased results ("hallucinations"). <strong>You are solely responsible for reviewing and verifying any AI-generated Output before relying on it for business or legal decisions.</strong></li>
+                    <li><strong>Accuracy Policy:</strong> AI models can produce inaccurate or biased results (&quot;hallucinations&quot;). <strong>You are solely responsible for reviewing and verifying any AI-generated Output before relying on it for business or legal decisions.</strong></li>
                     <li><strong>No Professional Advice:</strong> The Service is a tool, not a substitute for professional legal, financial, or tax advice.</li>
                 </ul>
             </section>
@@ -54,10 +54,10 @@ export default function TermsOfServicePage() {
 
             <section className="mb-10">
                 <h2 className="text-2xl font-bold mb-4">6. Limitation of Liability</h2>
-                <p className="mb-4 font-bold text-slate-800">
+                <p className="mb-4 font-bold text-[#dce9ff]">
                     TO THE MAXIMUM EXTENT PERMITTED BY LAW, SMARTBUSINESSVALUE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS, DATA, OR BUSINESS REPUTATION.
                 </p>
-                <p className="p-4 bg-primary/5 rounded-xl border border-primary/10">
+                <p className="p-4 bg-white/5 rounded-xl border border-white/10">
                     <strong>Liability Cap:</strong> In no event shall our total aggregate liability exceed the total amount paid by you to SmartBusinessValue in the twelve (12) months preceding the event giving rise to the claim.
                 </p>
             </section>
@@ -65,7 +65,7 @@ export default function TermsOfServicePage() {
             <section className="mb-10">
                 <h2 className="text-2xl font-bold mb-4">7. Disclaimers</h2>
                 <p>
-                    THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE." WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE.
+                    THE SERVICE IS PROVIDED &quot;AS IS&quot; AND &quot;AS AVAILABLE.&quot; WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE.
                 </p>
             </section>
 
@@ -86,7 +86,7 @@ export default function TermsOfServicePage() {
             <section>
                 <h2 className="text-2xl font-bold mb-4">10. Contact</h2>
                 <p>
-                    Questions about the Terms of Service? Reach out to <span className="font-bold text-primary">legal@smartbusinessvalue.com</span>.
+                    Questions about the Terms of Service? Reach out to <span className="font-bold text-accent">legal@smartbusinessvalue.com</span>.
                 </p>
             </section>
         </LegalLayout>
